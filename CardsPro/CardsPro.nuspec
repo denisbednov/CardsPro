@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Denis Bednov (denisbednov@outlook.com)</authors>
+    <owners>Denis Bednov (denisbednov@outlook.com)</owners>
+    <description>REST-клиент для API CardsPro (https://cardspro.ru/).</description>
+  </metadata>
+</package>
